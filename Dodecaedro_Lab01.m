@@ -1,6 +1,6 @@
 %%%%%%%Graficando el Dodecaedro(12 caras)%%%%%%%%%
 %Sólido platonico porque todas su caras son regulares iguales entre sí
-%Todas sus coordenadas quedan definidos con coordenadas enteras
+%Todas sus coordenadas quedan definidos aplicando la propoción Aurea y toma base las coordenadas enteras de un cubo.
 
 clc; clear all
 
